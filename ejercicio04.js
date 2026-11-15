@@ -7,5 +7,5 @@ function saludar(name) {
 }
 // Exporta la función para que pueda ser utilizada en las pruebas
 module.exports = {
-    saludar("Edgar")
+    saludar()
 };
