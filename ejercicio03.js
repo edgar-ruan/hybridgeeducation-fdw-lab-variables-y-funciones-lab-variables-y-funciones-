@@ -2,7 +2,7 @@
 // Declara una función llamada "sumar" que acepte dos parámetros (a y b) y retorne su suma
 
 //Escribe tu función aquí
-function obtenerNombre(num1,num2) {
+function sumar(num1,num2) {
     return num1 + num2
 }
 
